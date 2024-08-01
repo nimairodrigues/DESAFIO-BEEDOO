@@ -35,9 +35,9 @@ Este desafio tem o objetivo de avaliar os conhecimentos e habilidades em teste d
 6. Que tipo de permissões de usuário são necessárias para excluir um curso?
 
 ## Users Story
-1. Como um usuário ? / Quero cadastrar um curso no sistema / Para que eu possa passar meus conhecimentos a outras pessoas
-2. Como um usuário ? que cadastrou um curso / Quero excluir um curso / Para que eu possa retirar um curso desatualizado do sistema
-3. [sugerida] Como um usuário ? que cadastrou um curso / Quero editar um curso cadastrado por mim / Para que eu possar suas informações 
+1. Como um professor / Quero cadastrar um curso no sistema / Para que eu possa passar meus conhecimentos a outras pessoas
+2. Como um professor que cadastrou um curso / Quero excluir um curso / Para que eu possa retirar um curso desatualizado do sistema
+3. [sugerida] Como um professor que cadastrou um curso / Quero editar um curso cadastrado por mim / Para que eu possar suas informações 
 4. Como um usuário ? / Quero utilizar a barra de pesquisa em Listar Cursos / Para que eu possa encontrar um curso específico rapidamente
 5. Como um usuário ? / Quero utilizar o filtro de curso 'Tecnologia' em Listar Cursos / Para que eu possa encontrar cursos específicos daquela área
 6. Como um usuário ? / Quero visualizar mais informações de um curso / Para que eu possa verificar se aquele curso vai atender as minhas necessidades
