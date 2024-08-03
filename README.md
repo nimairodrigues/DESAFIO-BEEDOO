@@ -1,6 +1,10 @@
 # Desafio-Beedoo
 Este desafio tem o objetivo de avaliar os conhecimentos e habilidades em teste de software.
 
+```
+Situação hipotética: dado que você recebe a especificação do módulo de curso para testar a funcionalidade. Identifique ao menos 3 pontos críticos que exigem esclarecimentos do time responsável antes do início dos testes. Qual seria o próximo passo e como seria realizado para garantir que a funcionalidade seja entregue com qualidade?
+```
+
 ## Perguntas
 1. Quem será permitido cadastrar um curso? Qualquer usuário ou apenas usuários com permissões especiais?
 2. A tela de Listar Cursos será a mesma para o aluno/visitante?
@@ -25,6 +29,10 @@ Este desafio tem o objetivo de avaliar os conhecimentos e habilidades em teste d
 ## Erros encontrados até agora:
 1. Possível criar curso sem nenhuma informação (precisa tornar os campos obrigatórios)
 2. Erro no console ao tentar excluir um curso e recebendo mensagem do sistema de apagado com sucesso
+3. o campo de Link de Inscrição precisa de um verificador de link confiável
+4. o campo de Url da imagem de Capa precisa de um verificador de link confiável e verificar se é uma imagem ou não
+5. o campo de 'Número de Vagas' ta aceitando a letra 'e', -, +, .
+6. Erro ao atualizar a página estando na tela de 'Cadastrar Curso'
 
 ## Decisões tomadas em relação as Users Story
 1. Quais as funcionalidades do sistema?
