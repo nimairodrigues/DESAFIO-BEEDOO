@@ -3,6 +3,11 @@ Este desafio tem o objetivo de avaliar os conhecimentos e habilidades em teste d
 
 ```
 Situação hipotética: dado que você recebe a especificação do módulo de curso para testar a funcionalidade. Identifique ao menos 3 pontos críticos que exigem esclarecimentos do time responsável antes do início dos testes. Qual seria o próximo passo e como seria realizado para garantir que a funcionalidade seja entregue com qualidade?
+1. Quais as funcionalidades do sistema?
+2. Qual será o objetivo do usuário ao utilizar tais funcionalidades?
+3. Qual será a qualificação do usuário que irá se utilizar do sistema?
+4. Que tipo de permissões de usuário são necessárias para cadastrar um curso?
+5. Que tipo de permissões de usuário são necessárias para excluir um curso?
 ```
 
 ## Perguntas
@@ -35,12 +40,7 @@ Situação hipotética: dado que você recebe a especificação do módulo de cu
 6. Erro ao atualizar a página estando na tela de 'Cadastrar Curso'
 
 ## Decisões tomadas em relação as Users Story
-1. Quais as funcionalidades do sistema?
-2. Qual será o objetivo do usuário ao utilizar tais funcionalidades?
-3. Qual será a qualificação do usuário que irá se utilizar do sistema?
-4. Que tipo de permissões de usuário são necessárias para cadastrar um curso?
-5. Que tipo de permissões de usuário são necessárias para editar um curso?
-6. Que tipo de permissões de usuário são necessárias para excluir um curso?
+
 
 ## Users Story
 1. Como um professor / Quero cadastrar um curso no sistema / Para que eu possa passar meus conhecimentos a outras pessoas
