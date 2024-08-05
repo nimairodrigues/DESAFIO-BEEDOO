@@ -10,6 +10,10 @@ Link da planilha com Casos de Testes:
 
 https://docs.google.com/spreadsheets/d/1B-f0FaRjwqSeRmyy8u4IWRopBIpR5njEg_PF9lizwos/edit?usp=sharing
 
+Markdown report de bug:
+
+https://github.com/nimairodrigues/DESAFIO-BEEDOO/blob/main/REPORT-BUG.md
+
 ## Sugestões
 1. Falta filtro para pesquisar um curso, por exemplo: Tecnologia, Economia, Direito, Linguas e etc...
 2. Falta barra de pesquisa para pesquisar por um curso diretamente.
